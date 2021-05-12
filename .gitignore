@@ -1,0 +1,7 @@
+.idea
+.env
+/vendor/
+/vendor/*
+node_modules
+db.php
+Log.txt
